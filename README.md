@@ -2,7 +2,7 @@
 
 Uma API para o app de controle de gastos pessoais.
 
-## Endpoints
+## Endpoint
 
 - Despesas
     - [Cadastrar](#cadastrar-despesa)
